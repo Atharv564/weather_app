@@ -2,8 +2,8 @@ import requests
 from django.shortcuts import render
 
 def weather_view(request):
-    api_key = "7b318d7c174e441c86c114241251502"  # Replace with your WeatherAPI key
-    city = request.GET.get('city', 'New York')  # Default city
+    api_key = "API_KEY"  # Replace with your WeatherAPI key
+    city = request.GET.get('city', 'Pune')  # Default city
 
     url = f"http://api.weatherapi.com/v1/forecast.json?key={api_key}&q={city}&days=5&aqi=no&alerts=no"
     response = requests.get(url).json()
