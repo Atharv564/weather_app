@@ -19,7 +19,7 @@ A simple and modern weather app built using Django, Bootstrap, and a Weather API
 
 ## 📷 Screenshots
 
-![Weather App Screenshot](weather_app/weather/screenshots/weather-app.png)
+![Weather App Screenshot](weather_project/weather/screenshots/weather-app.png)
 
 ## 🏗️ Installation
 
