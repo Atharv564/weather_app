@@ -25,7 +25,7 @@ A simple and modern weather app built using Django, Bootstrap, and a Weather API
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Atharv564/weather-app.git
    cd weather-app
    ```
 2. **Create and activate a virtual environment:**
